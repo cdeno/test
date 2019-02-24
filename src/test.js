@@ -1,2 +1,2 @@
-var test = 'hi'
+var test = 'hiya'
 console.log(test)
